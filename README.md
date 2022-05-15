@@ -3,13 +3,13 @@ The source of this data is the Kaggle website, which is data that expresses e-co
 # Dataset Description
 columns:
 
-*Email: customer email
-*Address: customer adress
-*Avatar: customer name
-*Avg. Session Length: Average time spent on the website and app
-*Time on App: time spent on the app
-*Time on Website: time spent on web
-*Length of Membership: membership
-*Yearly Amount Spent: Yearly Amount Spent
+* Email: customer email
+* Address: customer adress
+* Avatar: customer name
+* Avg. Session Length: Average time spent on the website and app
+* Time on App: time spent on the app
+* Time on Website: time spent on web
+* Length of Membership: membership
+* Yearly Amount Spent: Yearly Amount Spent
 # conclusion
 The application works more effectively than the website in terms of influencing the amount of money spent yearly
